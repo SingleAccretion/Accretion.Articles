@@ -2,7 +2,7 @@ Statistics collected from wathing youtube in Microsoft Edge videos via Task Mana
 | Very low intesity | Raw data | Duration | MB/min | MB/h  | GB/month - 4 h/day |
 |-------------------|----------|----------|--------|-------|--------------------|
 | 144p              | 1.2 MB   | 7:46     | 0.155  | 9.3   | 1.10               |
-| 240               | 0.8 MB   | 3:36     | 0.222  | 13.32 | 1.56               |
+| 240p              | 0.8 MB   | 3:36     | 0.222  | 13.32 | 1.56               |
 | 360p              | 1.2 MB   | 5:01     | 0.240  | 14.4  | 1.69               |
 | 480p              | 1.0 MB   | 3:40     | 0.273  | 16.38 | 1.92               |
 | 720p              | 1.3 MB   | 3:36     | 0.361  | 21.66 | 2.89               |
@@ -11,7 +11,7 @@ Statistics collected from wathing youtube in Microsoft Edge videos via Task Mana
 | Very high intesity | Raw data | Duration | MB/min | MB/h  | GB/month - 4 h/day |
 |--------------------|----------|----------|--------|-------|--------------------|
 | 144p               | 1.3 MB   | 6:12     | 0.194  | 11.64 | 1.36               |
-| 240                | 3.8 MB   | 0:35     | 6.51   | 390.6 | 45.8               |
+| 240p               | 3.8 MB   | 0:35     | 6.51   | 390.6 | 45.8               |
 | 360p               | 5.7 MB   | 0:35     | 9.77   | 586.2 | 68.7               |
 | 480p               | 6.7 MB   | 0:35     | 11.5   | 672   | 78.8               |
 | 720p               | 11.8 MB  | 0:35     | 20.2   | 1212  | 142                | 
